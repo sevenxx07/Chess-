@@ -1,4 +1,4 @@
-package cz.cvut.fel.pjv.chessclient.gamelogic;
+package chessclient.gamelogic;
 
 
 /**
