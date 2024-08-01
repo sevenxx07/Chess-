@@ -1,10 +1,10 @@
-package cz.cvut.fel.pjv.chessclient.utilities;
+package chessclient.utilities;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import cz.cvut.fel.pjv.chessclient.gui.ChessSceneGenerator;
-import cz.cvut.fel.pjv.chessclient.gui.TypeOfGame;
+import chessclient.gui.ChessSceneGenerator;
+import chessclient.gui.TypeOfGame;
 
 import java.io.*;
 import java.text.DateFormat;
