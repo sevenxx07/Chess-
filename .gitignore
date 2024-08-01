@@ -1,0 +1,32 @@
+#Idea gitignore
+.idea/
+*.iml
+*.iws
+
+#Java gitignore
+*.class
+*.log
+
+#Packages gitignore
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+#Maven gitignore
+log/
+target
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+src/main/resources/saves/
+
