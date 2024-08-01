@@ -1,4 +1,4 @@
-package cz.cvut.fel.pjv.chessclient.gui;
+package chessclient.gui;
 
 /**
  * Enum TypeOfGame represents type of games that are implemented
