@@ -1,13 +1,13 @@
-package cz.cvut.fel.pjv.chessclient.gui;
+package chessclient.gui;
 
-import cz.cvut.fel.pjv.chessclient.gamelogic.*;
-import cz.cvut.fel.pjv.chessclient.network.ChessClient;
-import cz.cvut.fel.pjv.chessclient.pieces.Piece;
-import cz.cvut.fel.pjv.chessclient.players.GUIPlayer;
-import cz.cvut.fel.pjv.chessclient.players.NetworkPlayer;
-import cz.cvut.fel.pjv.chessclient.players.Player;
-import cz.cvut.fel.pjv.chessclient.players.RandomAI;
-import cz.cvut.fel.pjv.chessclient.utilities.GameSave;
+import chessclient.gamelogic.*;
+import chessclient.network.ChessClient;
+import chessclient.pieces.Piece;
+import chessclient.players.GUIPlayer;
+import chessclient.players.NetworkPlayer;
+import chessclient.players.Player;
+import chessclient.players.RandomAI;
+import chessclient.utilities.GameSave;
 import javafx.application.Platform;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
