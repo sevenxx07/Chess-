@@ -1,7 +1,7 @@
-package cz.cvut.fel.pjv.chessclient;
+package chessclient;
 
 
-import cz.cvut.fel.pjv.chessclient.gui.ChessApp;
+import chessclient.gui.ChessApp;
 
 public class Main {
 
