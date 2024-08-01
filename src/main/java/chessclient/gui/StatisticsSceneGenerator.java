@@ -1,8 +1,8 @@
-package cz.cvut.fel.pjv.chessclient.gui;
+package chessclient.gui;
 
-import cz.cvut.fel.pjv.chessclient.network.ChessClient;
-import cz.cvut.fel.pjv.chessclient.network.User;
-import cz.cvut.fel.pjv.chessclient.utilities.JsonSerializer;
+import chessclient.network.ChessClient;
+import chessclient.network.User;
+import chessclient.utilities.JsonSerializer;
 import javafx.geometry.HPos;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
