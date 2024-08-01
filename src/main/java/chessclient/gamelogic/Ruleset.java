@@ -1,8 +1,8 @@
-package cz.cvut.fel.pjv.chessclient.gamelogic;
+package chessclient.gamelogic;
 
-import cz.cvut.fel.pjv.chessclient.pieces.Color;
-import cz.cvut.fel.pjv.chessclient.pieces.King;
-import cz.cvut.fel.pjv.chessclient.pieces.Piece;
+import chessclient.pieces.Color;
+import chessclient.pieces.King;
+import chessclient.pieces.Piece;
 
 import java.util.ArrayList;
 import java.util.List;
