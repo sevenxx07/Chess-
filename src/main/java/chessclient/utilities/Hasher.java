@@ -1,4 +1,4 @@
-package cz.cvut.fel.pjv.chessclient.utilities;
+package chessclient.utilities;
 
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
