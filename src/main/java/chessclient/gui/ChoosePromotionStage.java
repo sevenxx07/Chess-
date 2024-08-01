@@ -1,6 +1,6 @@
-package cz.cvut.fel.pjv.chessclient.gui;
+package chessclient.gui;
 
-import cz.cvut.fel.pjv.chessclient.players.GUIPlayer;
+import chessclient.players.GUIPlayer;
 import javafx.event.Event;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
