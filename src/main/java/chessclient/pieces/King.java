@@ -1,9 +1,9 @@
-package cz.cvut.fel.pjv.chessclient.pieces;
+package chessclient.pieces;
 
-import cz.cvut.fel.pjv.chessclient.gamelogic.Board;
-import cz.cvut.fel.pjv.chessclient.gamelogic.Move;
-import cz.cvut.fel.pjv.chessclient.gamelogic.Ruleset;
-import cz.cvut.fel.pjv.chessclient.gamelogic.SpecialMove;
+import chessclient.gamelogic.Board;
+import chessclient.gamelogic.Move;
+import chessclient.gamelogic.Ruleset;
+import chessclient.gamelogic.SpecialMove;
 
 import java.util.ArrayList;
 import java.util.List;
