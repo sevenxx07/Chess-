@@ -1,4 +1,4 @@
-package cz.cvut.fel.pjv.chessclient.gamelogic;
+package chessclient.gamelogic;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
