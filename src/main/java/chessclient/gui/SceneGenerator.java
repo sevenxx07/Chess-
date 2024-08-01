@@ -1,4 +1,4 @@
-package cz.cvut.fel.pjv.chessclient.gui;
+package chessclient.gui;
 
 import javafx.scene.Scene;
 import javafx.stage.Stage;
