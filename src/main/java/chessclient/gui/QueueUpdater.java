@@ -1,6 +1,6 @@
-package cz.cvut.fel.pjv.chessclient.gui;
+package chessclient.gui;
 
-import cz.cvut.fel.pjv.chessclient.network.ChessClient;
+import chessclient.network.ChessClient;
 import javafx.beans.property.StringProperty;
 
 import java.text.DateFormat;
