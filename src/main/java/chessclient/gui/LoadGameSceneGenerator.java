@@ -1,6 +1,6 @@
-package cz.cvut.fel.pjv.chessclient.gui;
+package chessclient.gui;
 
-import cz.cvut.fel.pjv.chessclient.utilities.SaveManager;
+import chessclient.utilities.SaveManager;
 import javafx.geometry.HPos;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
