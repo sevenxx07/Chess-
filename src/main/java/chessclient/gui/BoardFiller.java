@@ -1,8 +1,8 @@
-package cz.cvut.fel.pjv.chessclient.gui;
+package chessclient.gui;
 
-import cz.cvut.fel.pjv.chessclient.gamelogic.Board;
-import cz.cvut.fel.pjv.chessclient.pieces.Color;
-import cz.cvut.fel.pjv.chessclient.pieces.Piece;
+import chessclient.gamelogic.Board;
+import chessclient.pieces.Color;
+import chessclient.pieces.Piece;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 
