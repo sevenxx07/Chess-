@@ -1,4 +1,4 @@
-package cz.cvut.fel.pjv.chessclient.pieces;
+package chessclient.pieces;
 
 /**
  * Enum Color represents the two colors of the chess pieces - black, and white.
