@@ -1,11 +1,11 @@
-package cz.cvut.fel.pjv.chessclient.utilities;
+package chessclient.utilities;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import cz.cvut.fel.pjv.chessclient.network.Turn;
-import cz.cvut.fel.pjv.chessclient.network.User;
+import chessclient.network.Turn;
+import chessclient.network.User;
 
 import java.util.ArrayList;
 import java.util.Arrays;
