@@ -1,6 +1,6 @@
-package cz.cvut.fel.pjv.chessclient.gamelogic;
+package chessclient.gamelogic;
 
-import cz.cvut.fel.pjv.chessclient.pieces.*;
+import chessclient.pieces.*;
 
 /**
  * BoardInitializer initializes the board by adding pieces to given board
