@@ -1,8 +1,8 @@
-package cz.cvut.fel.pjv.chessclient.gui;
+package chessclient.gui;
 
-import cz.cvut.fel.pjv.chessclient.gamelogic.BoardInitializer;
-import cz.cvut.fel.pjv.chessclient.network.ChessClient;
-import cz.cvut.fel.pjv.chessclient.pieces.Color;
+import chessclient.gamelogic.BoardInitializer;
+import chessclient.network.ChessClient;
+import chessclient.pieces.Color;
 import javafx.application.Platform;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.geometry.HPos;
